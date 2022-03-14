@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portofilo_app/static/css/main.5439bfca.css",
-    "main.js": "/portofilo_app/static/js/main.ff947d5d.js",
+    "main.js": "/portofilo_app/static/js/main.058dc617.js",
     "static/js/787.536602e4.chunk.js": "/portofilo_app/static/js/787.536602e4.chunk.js",
     "static/media/about-img.jpg": "/portofilo_app/static/media/about-img.a9f3913a8db2346a7a47.jpg",
     "index.html": "/portofilo_app/index.html",
     "main.5439bfca.css.map": "/portofilo_app/static/css/main.5439bfca.css.map",
-    "main.ff947d5d.js.map": "/portofilo_app/static/js/main.ff947d5d.js.map",
+    "main.058dc617.js.map": "/portofilo_app/static/js/main.058dc617.js.map",
     "787.536602e4.chunk.js.map": "/portofilo_app/static/js/787.536602e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5439bfca.css",
-    "static/js/main.ff947d5d.js"
+    "static/js/main.058dc617.js"
   ]
 }
